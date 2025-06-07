@@ -8,4 +8,6 @@ Details about the projects:
 ![Screenshot 2025-06-06 050109](https://github.com/user-attachments/assets/5603e634-a0cc-43cd-8d7b-be04094fac5d)
 
 # QuizApp:
+![Screenshot 2025-06-07 104623](https://github.com/user-attachments/assets/3073ee4d-605a-429a-a750-f95830a60c2f)
 
+![Screenshot 2025-06-07 110400](https://github.com/user-attachments/assets/913f393e-e789-4075-ab3e-c1c3ed56fdc0)
