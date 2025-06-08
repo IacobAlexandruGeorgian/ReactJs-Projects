@@ -6,7 +6,7 @@ The projects contains:
 - Standalone, Dynamic and Global Components with Data binding between them (props)
 - Components with state, refs, portals, hooks (useRedured, useMemo), side effects (useEffect, useCallback, useMemo)
 - Class based components and custom react hooks
-- Forms with http requests (axios)
+- Forms and forms actions with http requests (axios)
 - Context API and Redux
 - Pages with react router
 - Authentification (Register, Login, Logout, Auto Login)
