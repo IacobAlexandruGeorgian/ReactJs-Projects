@@ -27,3 +27,8 @@ The projects contains:
 ![image](https://github.com/user-attachments/assets/dded5d81-f920-485f-a464-cf40f0858213)
 
 ![image](https://github.com/user-attachments/assets/051993bd-b03e-4a06-986f-44287d5ecd75)
+
+# ReduxCartApp
+
+![image](https://github.com/user-attachments/assets/4711520c-de94-4ecf-8595-b1370cf343c4)
+
