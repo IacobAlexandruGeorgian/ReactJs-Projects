@@ -32,3 +32,10 @@ The projects contains:
 
 ![image](https://github.com/user-attachments/assets/4711520c-de94-4ecf-8595-b1370cf343c4)
 
+# EventsPageApp
+
+![image](https://github.com/user-attachments/assets/c5117cad-04e8-4a6a-81ac-705ca79aa791)
+
+![image](https://github.com/user-attachments/assets/aefaa9c1-ed55-4139-90ea-0a419bb0a8b7)
+
+
