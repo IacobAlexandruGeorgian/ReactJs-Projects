@@ -40,5 +40,13 @@ The projects contains:
 
 ![image](https://github.com/user-attachments/assets/4a558303-23ee-46c8-9724-a5b56bad68fe)
 
+# ReactQueryApp
+
+![image](https://github.com/user-attachments/assets/74ee0cc1-2345-47eb-a1bd-7e8943c24ed6)
+
+![image](https://github.com/user-attachments/assets/26c2ac30-3fa1-462d-956d-d9ab6e48d332)
+
+
+
 
 
