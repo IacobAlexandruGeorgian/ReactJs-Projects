@@ -1,7 +1,6 @@
 import { shareMeal } from '@/app/lib/action';
 import ImagePicker from '../image-picker';
 import classes from './page.module.css';
-import { useFormStatus } from 'react-dom';
 import MealsFormSubmit from '../meals-form-submit';
 
 export default function ShareMealPage() {
