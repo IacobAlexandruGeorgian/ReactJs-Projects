@@ -10,6 +10,7 @@ The projects contains:
 - Context API and Redux
 - Pages with react router
 - Authentification (Register, Login, Logout, Auto Login)
+- React Query / Tanstack Query
 - NextJs
 
 # ManagementApp:
