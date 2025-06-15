@@ -10,6 +10,7 @@ The projects contains:
 - Context API and Redux
 - Pages with react router
 - Authentification (Register, Login, Logout, Auto Login)
+- NextJs
 
 # ManagementApp:
 ![Screenshot 2025-06-06 050018](https://github.com/user-attachments/assets/5dfcac55-0943-4d18-90f2-b45f66beea48)
@@ -45,6 +46,20 @@ The projects contains:
 ![image](https://github.com/user-attachments/assets/74ee0cc1-2345-47eb-a1bd-7e8943c24ed6)
 
 ![image](https://github.com/user-attachments/assets/26c2ac30-3fa1-462d-956d-d9ab6e48d332)
+
+# FoodiesApp (NextJs)
+
+![image](https://github.com/user-attachments/assets/2ba18ce6-4970-4960-869d-d6ef8385ccc9)
+
+![image](https://github.com/user-attachments/assets/5e66058a-c57e-4d0b-8bc9-e1dd6427f560)
+
+![image](https://github.com/user-attachments/assets/3e43c152-ad1c-476c-918c-67dbc04df50c)
+
+![image](https://github.com/user-attachments/assets/f60f89f6-f11d-40b8-9014-a1f66a85b2cb)
+
+
+
+
 
 
 
